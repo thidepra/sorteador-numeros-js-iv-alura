@@ -24,6 +24,6 @@ Para acessar o Sorteador de Números basta clicar na imagem abaixo.
 
 <div align="center">
   <a href="https://sorteador-numeros-depra.vercel.app/">
-  <img height="500" width="700" src="https://i.postimg.cc/RFYPv8RW/image.png">
+  <img height="500" width="700" src="https://i.postimg.cc/J07bRYCf/sorteador.png">
   </a>
 </div>
