@@ -3,6 +3,14 @@ function sortear() {
     let de = parseInt(document.getElementById("de").value);
     let ate = parseInt(document.getElementById("ate").value);
 
+    if (de >= ate) {
+        alert('O valor "Do número" deve ser menor que o "Até o número". Tente novamente!');
+        return;      
+    } else if (quantidade > (ate - de + 1)) {
+        alert('O valor "Quantidade" deve ser menor ou igual ao intervalo informado no "Do número" e no "Até o número". Tente novamente!');
+        return;      
+    }
+
     let numerosSorteados = [];
     let numero;
     for (let i = 0; i < quantidade; i++) {
