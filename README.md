@@ -1,6 +1,6 @@
 <h1 align="center">Jogo do Número Secreto</h1>
 <div>
-  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=flat">
+  <img src="https://img.shields.io/badge/STATUS-%20CONCLUIDO-green?style=flat">
 </div>
 
 ## Sobre
